@@ -2,22 +2,18 @@
 
 <p align="center">
 <a href="https://leetcode.com/u/Appala_Saisudha/">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&border=0"/>
 </a>
 </p>
 
 <p align="center">
 
 <a href="https://www.codechef.com/users/saisudha_612">
-<img src="https://img.shields.io/badge/CodeChef-YOUR_CODECHEF_USERNAME-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/236Y1A6612">
-<img src="https://img.shields.io/badge/HackerRank-YOUR_HACKERRANK_USERNAME-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <a href="https://www.interviewbit.com/profile/saisudha-appala/">
-<img src="https://img.shields.io/badge/InterviewBit-YOUR_INTERVIEWBIT_USERNAME-blue?style=for-the-badge"/>
 </a>
 
 </p>
