@@ -1,37 +1,20 @@
-<h2 align="center">💻 Coding Profiles</h2>
+## 💻 Coding Profiles
 
-<p align="center">
-<a href="https://leetcode.com/u/Appala_Saisudha/">
-</a>
-</p>
-
-<p align="center">
-
-<a href="https://www.codechef.com/users/saisudha_612">
-</a>
-
-<a href="https://www.hackerrank.com/profile/236Y1A6612">
-</a>
-
-<a href="https://www.interviewbit.com/profile/saisudha-appala/">
-</a>
-
-</p>
+- LeetCode: https://leetcode.com/u/Appala_Saisudha/
+- CodeChef: https://www.codechef.com/users/saisudha_612
+- HackerRank: https://www.hackerrank.com/profile/236Y1A6612
+- InterviewBit: https://www.interviewbit.com/profile/saisudha-appala/
 
 ---
 
-<h2 align="center">📚 DSA Topics Covered</h2>
+## 📚 Data Structures & Algorithms Topics Covered
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Arrays-DSA-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bit_Manipulation-DSA-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Strings-DSA-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Stack-DSA-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Queue-DSA-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Recursion-DSA-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pointers-DSA-lightgrey?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Searching-DSA-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Sorting-DSA-brightgreen?style=for-the-badge"/>
-
-</p>
+- Arrays
+- Bit Manipulation
+- Strings
+- Stack
+- Queue
+- Recursion
+- Pointers
+- Searching
+- Sorting
